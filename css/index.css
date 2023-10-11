@@ -1,5 +1,9 @@
-@import url(./globals.css);
-@import url(./controls.css);
-@import url(./header.css);
-@import url(./products.css);
-@import url(./footer.css);
+.bg-body-tertiary {
+    background-color: aqua !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: url(../img/baby-yoda.svg);
+}
+
